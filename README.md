@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src= [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1A3EF7&center=true&vCenter=true&width=435&lines=I'm+Gowreesh+V+T)](https://git.io/typing-svg) >
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1A3EF7&center=true&vCenter=true&width=435&lines=I'm+Gowreesh+V+T)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Gowreesh V.T.
 
