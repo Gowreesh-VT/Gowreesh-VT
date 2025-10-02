@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1A3EF7&center=true&vCenter=true&width=435&lines=I'm+Gowreesh+V+T)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm Gowreesh V.T.
+# 👋 Hi, I'm Gowreesh V T
 
 🎓 First-year Computer Science student at **VIT Chennai (CSE Core)**  
 📊 Also pursuing **IITM (Data Science)**  
@@ -47,10 +47,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gowreesh-VT&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 📈 Contribution Graph
-[![Gowreesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowreesh-VT&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
