@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Gowreesh V.T.
 
 🎓 First-year Computer Science student at **VIT Chennai (CSE Core)**  
-📊 Also pursuing **IIIM (Data Science)**  
+📊 Also pursuing **IITM (Data Science)**  
 💡 Passionate about **Programming | Cybersecurity | Web Development | AI/ML**  
 ⚡ Always curious to explore new technologies and solve problems creatively  
 
@@ -47,5 +47,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gowreesh-VT&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 📈 Contribution Graph
+[![Gowreesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowreesh-VT&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
