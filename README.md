@@ -265,7 +265,7 @@ Organized and hosted a **10-session technical workshop series** with hackathons,
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gowreesh-VT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Gowreesh-VT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
