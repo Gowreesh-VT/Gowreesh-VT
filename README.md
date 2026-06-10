@@ -233,13 +233,12 @@ Organized and hosted a **10-session technical workshop series** with hackathons,
 | 🏅 Certificate | 🏢 Issuer | 🔖 Domain |
 |---|---|---|
 | Meta Full-Stack Developer | Meta / Coursera | Full-Stack Engineering |
-| Meta Front-End Developer | Meta / Coursera | Frontend Engineering |
 | Meta Python Professional | Meta / Coursera | Backend & Scripting |
 | MongoDB Developer | MongoDB University | NoSQL & Database Design |
 | Redis Certified Developer | Redis University | Caching & Data Structures |
-| SQL Associate | — | Relational Databases |
+| SQL Associate | DataCamp | Relational Databases |
 | Responsive Web Design | freeCodeCamp | Frontend / CSS |
-| JavaScript Algorithms & DS | freeCodeCamp | Algorithms & Scripting |
+| Introduction To AWS | AWS | DevOps |
 
 </div>
 
@@ -256,7 +255,7 @@ Organized and hosted a **10-session technical workshop series** with hackathons,
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gowreesh-VT&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gowreesh-VT&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -266,7 +265,7 @@ Organized and hosted a **10-session technical workshop series** with hackathons,
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gowreesh-VT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gowreesh-VT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -291,8 +290,6 @@ Organized and hosted a **10-session technical workshop series** with hackathons,
 ---
 
 **Open to collaborations, internships, and building things that actually matter.**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Gowreesh-VT&color=7C3AED&style=flat-square&label=Profile+Views)](https://github.com/Gowreesh-VT)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
