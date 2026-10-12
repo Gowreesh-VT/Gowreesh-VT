@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gowreesh%20V%20T&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20WebOps%20%7C%20CS%20%40%20VIT%20Chennai%20%2B%20IITM&descAlignY=58&descSize=17&animation=twinkling" alt="Gowreesh V T" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,50:0f766e,100:0b1220&height=200&section=header&text=Gowreesh%20V%20T&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20WebOps%20%7C%20CS%20%40%20VIT%20Chennai%20%2B%20IITM&descAlignY=58&descSize=17&animation=twinkling" alt="Gowreesh V T" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+full-stack+apps;Web+Development+Lead+%40+Microsoft+Innovation+Club;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Docker+%7C+Vercel" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+production-grade+full-stack+apps;Web+Development+Lead+%40+Microsoft+Innovation+Club;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+Docker+%7C+Vercel" alt="Typing SVG" /></a>
 
 <br/>
 
-<a href="https://gowreesh.me"><img src="https://img.shields.io/badge/🌐_Portfolio-gowreesh.me-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://gowreesh.me"><img src="https://img.shields.io/badge/🌐_Portfolio-gowreesh.me-0D9488?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/gowreesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:vt.gowreesh43@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -121,12 +121,12 @@ Build, validate and share FFCS (Fully Flexible Credit System) timetables for cou
 
 
 
-![MIC](https://img.shields.io/badge/Web_Development_Lead-Oct_2024_–_Present-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white)
+![MIC](https://img.shields.io/badge/Web_Development_Lead-Oct_2024_–_Present-0D9488?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 
 
-![Role](https://img.shields.io/badge/Core_Organizer-Development_Department-302b63?style=for-the-badge)
+![Role](https://img.shields.io/badge/Core_Organizer-Development_Department-0f766e?style=for-the-badge)
 
 
 
@@ -146,7 +146,7 @@ Leading web development for the club: building and running its platforms and eve
 ## ☁️ WebOps & Cloud
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#302b63','primaryTextColor':'#ffffff','primaryBorderColor':'#A78BFA','lineColor':'#A78BFA','tertiaryColor':'#0f0c29'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0f766e','primaryTextColor':'#ffffff','primaryBorderColor':'#2DD4BF','lineColor':'#2DD4BF','tertiaryColor':'#042f2e'}}}%%
 flowchart LR
     A[Code Push] --> B[GitHub Actions CI/CD]
     B --> C[Build & Test]
@@ -218,12 +218,7 @@ Meta Python Professional · SQL Associate (DataCamp) · Responsive Web Design (f
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowreesh-VT&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=A78BFA&text_color=C9D1D9&icon_color=7C3AED" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowreesh-VT&hide_border=true&layout=compact&bg_color=0f0c29&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
-
-<br/>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Gowreesh-VT&theme=tokyonight&hide_border=true&background=0f0c29" alt="GitHub Streak" /></a>
+<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
 
 </div>
 
@@ -233,7 +228,7 @@ Meta Python Professional · SQL Associate (DataCamp) · Responsive Web Design (f
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Gowreesh-VT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="Trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Gowreesh-VT&theme=nord&no-frame=true&no-bg=true&margin-w=6" alt="Trophies" /></a>
 
 </div>
 
@@ -253,6 +248,6 @@ Meta Python Professional · SQL Associate (DataCamp) · Responsive Web Design (f
 
 **Open to collaborations, internships, and building things that actually matter.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f766e,100:042f2e&height=120&section=footer" alt="" />
 
 </div>
