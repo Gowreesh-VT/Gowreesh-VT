@@ -218,7 +218,13 @@ Meta Python Professional · SQL Associate (DataCamp) · Responsive Web Design (f
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile details" width="48%" />
+<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" width="48%" />
+
+<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per language" width="48%" />
+<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most commit language" width="48%" />
+
+<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive time" width="48%" />
 
 </div>
 
