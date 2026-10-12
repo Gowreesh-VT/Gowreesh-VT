@@ -125,17 +125,19 @@ Build, validate and share FFCS (Fully Flexible Credit System) timetables for cou
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile details" width="48%" />
-<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowreesh-VT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowreesh-VT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
-<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per language" width="48%" />
-<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most commit language" width="48%" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive time" width="48%" />
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gowreesh-VT&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
