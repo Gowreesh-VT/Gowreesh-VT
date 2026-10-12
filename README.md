@@ -38,43 +38,63 @@ const gowreesh = {
 <td width="50%" valign="top">
 
 ### 🛰️ Fleet Pilot
-Vehicle tracking and compliance platform. **200+ customers, 6,000+ vehicles.** Founder.
+> **Vehicle Tracking & Compliance Platform**: Founder
 
-`Next.js` `PostgreSQL` `Prisma` `PWA`
+Used in production by **200+ customers**, tracking **6,000+ vehicles**. Built for fleet operators and low-literacy drivers in Tier 2/3 Indian cities.
 
-<a href="https://github.com/Gowreesh-VT/VehicleTrack-Pro"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+- 🔍 VAHAN RTO scraper + Tesseract.js captcha solving
+- 📸 Client-side OCR certificate scanner
+- 💳 Razorpay payments · 📲 SMS/push reminders
+
+**Stack:** `Next.js 14` `PostgreSQL` `Prisma` `NextAuth.js` `Serwist PWA` `Playwright`
+
+<a href="https://github.com/Gowreesh-VT/VehicleTrack-Pro"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗓️ FFCS Timetable Planner
-Clash-free timetable builder for course registration. **10,000+ VIT students.**
+> **Used by 10,000+ VIT Chennai students**
 
-`Next.js 16` `MongoDB` `NextAuth` `Redis`
+Build, validate and share FFCS (Fully Flexible Credit System) timetables for course registration.
 
-<a href="https://github.com/Gowreesh-VT/FFCS-Timetable"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+🧩 Timetable creation with clash validation
+🔎 Course and slot browsing
+🔐 Authenticated sharing and saved timetables
+
+**Stack:** `Next.js 16` `React 19` `MongoDB` `NextAuth.js` `Tailwind` `Upstash Redis`
+
+<a href="https://github.com/Gowreesh-VT/FFCS-Timetable"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📧 MIC Email Client
-Bulk email platform with SMTP failover, open tracking and certificate generation.
+### 📧 Postly
+> **Full-Stack Email Platform**: Production Intern Project
 
-`Next.js` `PostgreSQL` `Prisma` `Redis`
+- 🔀 4-level SMTP priority chain with failover
+- 📊 Bulk send with CSV import
+- 📡 Open/click tracking + audit logging
 
-<a href="https://github.com/Gowreesh-VT/Custom-Mail-GUI"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+**Stack:** `Next.js 14` `PostgreSQL/Neon` `Prisma` `Redis` `Shadcn/ui`
+
+<a href="https://github.com/Gowreesh-VT/Custom-Mail-GUI"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📝 NotesFlow
-Local-first notes and tasks app in the spirit of TickTick. Offline PWA with Markdown and reminders.
+> **Local-first notes & tasks app, in the spirit of TickTick**
 
-`Next.js` `TypeScript` `Drizzle` `Postgres`
+- 📥 Smart views: Inbox, Today, Next 7 Days, Completed, Trash
+- ✅ Priorities, due dates, subtasks, auto `#tags`
+- 🔔 Web Push reminders, even when the app is closed
 
-<a href="https://github.com/Gowreesh-VT/notesflow"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" alt="Repo" /></a>
+**Stack:** `Next.js` `TypeScript` `Tailwind v4` `Zustand` `Drizzle` `Postgres` `Auth.js` `Vitest`
+
+<a href="https://github.com/Gowreesh-VT/notesflow"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 
 </td>
 </tr>
@@ -82,25 +102,30 @@ Local-first notes and tasks app in the spirit of TickTick. Offline PWA with Mark
 
 ---
 
-## 🎙️ Microsoft Innovation Club
-
-**Web Development Lead** (Oct 2024 – present) · Core Organizer, Development Department
-
-Building the club's platforms and event infrastructure, organizing hackathons, and hosting a 10-session technical workshop series.
-
----
-
 ## 🛠️ Tech
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,nextjs,react,tailwind,nodejs,postgres,mongodb,redis,prisma,docker,vercel,githubactions,aws&theme=dark" alt="Tech stack" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,solidity,bash&theme=dark" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,sqlite,supabase,firebase&theme=dark" alt="Backend and databases" />
+
+**WebOps, Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,githubactions,nginx,linux,aws,gcp,azure&theme=dark" alt="DevOps and cloud" />
 
 </div>
 
 ---
-
-## 📊 Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -110,7 +135,25 @@ Building the club's platforms and event infrastructure, organizing hackathons, a
 <img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per language" width="48%" />
 <img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most commit language" width="48%" />
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive time" width="48%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Gowreesh-VT&theme=nord&no-frame=true&no-bg=true&margin-w=6" alt="Trophies" /></a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Gowreesh-VT/Gowreesh-VT/output/github-snake.svg" alt="Contribution snake" />
 
